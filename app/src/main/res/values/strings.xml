@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ManagingStateExample</string>
+    <string name="input_label">Input</string>
+    <string name="submit">Submit</string>
+    <string name="success">Success</string>
+    <string name="failure">Failure</string>
+</resources>
