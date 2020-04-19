@@ -4,3 +4,5 @@ This is a sample application which explicits how to manage the Application state
 The purpose of creating such an application is to make it easier for developers who want to understand how this pattern work in a real application and maybe push this concept further.
 
 For simplicity, the app uses **Kotlin** and the following libraries **RxJava**, **RxAndroid**, and **RxBinding**
+
+I have also posted this [article](https://medium.com/@OssamaDroid/key-takeaways-from-managing-state-with-rxjava-by-jake-wharton-337ec54ff742) on Medium to explain the concept further.
